@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aplikasi-makanan/static/css/main.c2cab247.css",
+    "main.js": "/Aplikasi-makanan/static/js/main.6c930c35.js",
+    "index.html": "/Aplikasi-makanan/index.html",
+    "main.c2cab247.css.map": "/Aplikasi-makanan/static/css/main.c2cab247.css.map",
+    "main.6c930c35.js.map": "/Aplikasi-makanan/static/js/main.6c930c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.6c930c35.js"
+  ]
+}
